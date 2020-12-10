@@ -9,3 +9,4 @@ RUN mkdir \
     opkg update; \
     opkg install \
         bash \
+    ;
