@@ -5,3 +5,7 @@ RUN mkdir \
         /var/run \
         /var/log \
         /var/lock \
+    ; \
+    opkg update; \
+    opkg install \
+        bash \
