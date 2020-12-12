@@ -10,3 +10,5 @@ RUN mkdir \
     opkg install \
         bash \
     ;
+
+CMD [ "/bin/login.sh" ]
