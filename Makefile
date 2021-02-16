@@ -6,4 +6,4 @@ VERSION ?= 15.05
 ARCH ?= x86
 
 TAG := $(VERSION)-$(ARCH)
-ifeq (
+ifeq ($(V
