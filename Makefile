@@ -7,4 +7,4 @@ ARCH ?= x86
 
 TAG := $(VERSION)-$(ARCH)
 ifeq ($(VERSION),latest)
-	TAG := $(LATEST_VERS
+	TAG := $(LATEST_VERSION
