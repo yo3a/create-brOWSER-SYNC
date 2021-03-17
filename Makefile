@@ -10,4 +10,5 @@ ifeq ($(VERSION),latest)
 	TAG := $(LATEST_VERSION)-$(ARCH)
 endif
 
-# VERSION
+# VERSIONS
+if
