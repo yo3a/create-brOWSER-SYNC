@@ -11,4 +11,4 @@ ifeq ($(VERSION),latest)
 endif
 
 # VERSIONS
-ifeq (
+ifeq ($(TAG
