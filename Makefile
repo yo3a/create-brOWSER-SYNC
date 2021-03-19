@@ -11,4 +11,4 @@ ifeq ($(VERSION),latest)
 endif
 
 # VERSIONS
-ifeq ($(TAG),15.
+ifeq ($(TAG),15.05-x64)
