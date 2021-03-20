@@ -12,4 +12,4 @@ endif
 
 # VERSIONS
 ifeq ($(TAG),15.05-x64)
-	ROO
+	ROOTFS_UR
