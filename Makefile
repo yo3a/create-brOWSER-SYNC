@@ -12,4 +12,4 @@ endif
 
 # VERSIONS
 ifeq ($(TAG),15.05-x64)
-	ROOTFS_URL := https://downloads.openwrt.org/c
+	ROOTFS_URL := https://downloads.openwrt.org/chao
