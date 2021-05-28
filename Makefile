@@ -15,4 +15,4 @@ ifeq ($(TAG),15.05-x64)
 	ROOTFS_URL := https://downloads.openwrt.org/chaos_calmer/15.05/x86/64/openwrt-15.05-x86-64-rootfs.tar.gz
 endif
 ifeq ($(TAG),15.05-x86)
-	ROOTFS_URL := https://downloads.openwrt.org/chaos_calmer/15.05/x86/generic/openwrt-15.05-x86-generic-
+	ROOTFS_URL := https://downloads.openwrt.org/chaos_calmer/15.05/x86/generic/openwrt-15.05-x86-generic-Gen
