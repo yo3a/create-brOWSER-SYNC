@@ -21,4 +21,4 @@ ifeq ($(TAG),14.07-x86)
 	ROOTFS_URL := https://downloads.openwrt.org/barrier_breaker/14.07/x86/generic/openwrt-x86-generic-Generic-rootfs.tar.gz
 endif
 ifeq ($(TAG),12.09-x86)
-	ROOTFS_URL := htt
+	ROOTFS_URL := https:
