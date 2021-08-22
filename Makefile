@@ -23,4 +23,4 @@ endif
 ifeq ($(TAG),12.09-x86)
 	ROOTFS_URL := https://downloads.openwrt.org/attitude_adjustment/12.09/x86/generic/openwrt-x86-generic-rootfs.tar.gz
 endif
-ifeq ($(
+ifeq ($(TAG
