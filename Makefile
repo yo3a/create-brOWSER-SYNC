@@ -24,4 +24,4 @@ ifeq ($(TAG),12.09-x86)
 	ROOTFS_URL := https://downloads.openwrt.org/attitude_adjustment/12.09/x86/generic/openwrt-x86-generic-rootfs.tar.gz
 endif
 ifeq ($(TAG),10.03.1-x86)
-	ROOTFS_URL := https://downloads.openwrt.org/backfire/10.03.1/x86_generic/openwrt-x86-generic-rootf
+	ROOTFS_URL := https://downloads.openwrt.org/backfire/10.03.1/x86_generic/openwrt-x86-generic-rootfs
