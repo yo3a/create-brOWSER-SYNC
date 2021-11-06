@@ -30,4 +30,4 @@ ifeq ($(TAG),10.03-x86)
 	ROOTFS_URL := https://downloads.openwrt.org/backfire/10.03/x86/openwrt-x86-rootfs.tgz
 endif
 
-ifeq ($(VERSION),l
+ifeq ($(VERSION),lates
