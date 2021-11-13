@@ -31,4 +31,4 @@ ifeq ($(TAG),10.03-x86)
 endif
 
 ifeq ($(VERSION),latest)
-	VERSION := $(LATEST_
+	VERSION := $(LATEST_VE
