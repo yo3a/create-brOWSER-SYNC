@@ -32,3 +32,4 @@ endif
 
 ifeq ($(VERSION),latest)
 	VERSION := $(LATEST_VERSION)
+	T
