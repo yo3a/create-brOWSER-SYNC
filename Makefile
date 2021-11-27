@@ -32,4 +32,5 @@ endif
 
 ifeq ($(VERSION),latest)
 	VERSION := $(LATEST_VERSION)
-	TAG := latest-$(ARC
+	TAG := latest-$(ARCH)
+e
