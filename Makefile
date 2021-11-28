@@ -34,3 +34,5 @@ ifeq ($(VERSION),latest)
 	VERSION := $(LATEST_VERSION)
 	TAG := latest-$(ARCH)
 endif
+
+r
