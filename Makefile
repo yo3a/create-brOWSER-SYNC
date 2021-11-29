@@ -35,4 +35,4 @@ ifeq ($(VERSION),latest)
 	TAG := latest-$(ARCH)
 endif
 
-run
+run: bu
