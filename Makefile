@@ -36,4 +36,4 @@ ifeq ($(VERSION),latest)
 endif
 
 run: build
-	@
+	@doc
