@@ -36,4 +36,4 @@ ifeq ($(VERSION),latest)
 endif
 
 run: build
-	@docker r
+	@docker run 
