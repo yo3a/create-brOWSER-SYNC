@@ -36,4 +36,4 @@ ifeq ($(VERSION),latest)
 endif
 
 run: build
-	@docker run --rm -ti cu
+	@docker run --rm -ti cuss
