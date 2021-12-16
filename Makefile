@@ -36,4 +36,4 @@ ifeq ($(VERSION),latest)
 endif
 
 run: build
-	@docker run --rm -ti cusspvz/openwrt:
+	@docker run --rm -ti cusspvz/openwrt:${T
