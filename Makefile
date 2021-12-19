@@ -38,4 +38,4 @@ endif
 run: build
 	@docker run --rm -ti cusspvz/openwrt:${TAG}
 
-run-ba
+run-bash
