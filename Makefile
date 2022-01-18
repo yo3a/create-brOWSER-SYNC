@@ -40,3 +40,5 @@ run: build
 
 run-bash: build
 	@docker run --rm -ti cusspvz/openwrt:${TAG} /bin/bash
+
+p
