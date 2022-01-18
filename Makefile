@@ -39,4 +39,4 @@ run: build
 	@docker run --rm -ti cusspvz/openwrt:${TAG}
 
 run-bash: build
-	@docker run --rm -ti cusspvz/open
+	@docker run --rm -ti cusspvz/openwrt:${
