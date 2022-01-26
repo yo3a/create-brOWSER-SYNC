@@ -42,4 +42,4 @@ run-bash: build
 	@docker run --rm -ti cusspvz/openwrt:${TAG} /bin/bash
 
 pull-root:
-	@if [ "${ROOTF
+	@if [ "${ROOTFS_
