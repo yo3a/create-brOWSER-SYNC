@@ -42,4 +42,4 @@ run-bash: build
 	@docker run --rm -ti cusspvz/openwrt:${TAG} /bin/bash
 
 pull-root:
-	@if [ "${ROOTFS_URL}" == "" ]; then echo "No ROOTFS available"; ex
+	@if [ "${ROOTFS_URL}" == "" ]; then echo "No ROOTFS available"; exit 1; 
