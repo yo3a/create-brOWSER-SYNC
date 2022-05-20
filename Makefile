@@ -43,4 +43,4 @@ run-bash: build
 
 pull-root:
 	@if [ "${ROOTFS_URL}" == "" ]; then echo "No ROOTFS available"; exit 1; fi
-	@docker images | grep openwrt-${TAG} || docker import ${ROOTF
+	@docker images | grep openwrt-${TAG} || docker import ${ROOTFS_U
