@@ -46,4 +46,4 @@ pull-root:
 	@docker images | grep openwrt-${TAG} || docker import ${ROOTFS_URL} openwrt-${TAG}
 
 pull-root-forced:
-	@if [ "${ROOTFS_URL}" == "" ]; then echo "No ROOTFS av
+	@if [ "${ROOTFS_URL}" == "" ]; then echo "No ROOTFS availa
