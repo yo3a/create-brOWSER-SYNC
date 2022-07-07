@@ -47,4 +47,4 @@ pull-root:
 
 pull-root-forced:
 	@if [ "${ROOTFS_URL}" == "" ]; then echo "No ROOTFS available"; exit 1; fi
-	@echo "Pulling $(
+	@echo "Pulling $(TAG)"
