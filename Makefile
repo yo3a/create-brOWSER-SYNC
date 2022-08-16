@@ -48,4 +48,5 @@ pull-root:
 pull-root-forced:
 	@if [ "${ROOTFS_URL}" == "" ]; then echo "No ROOTFS available"; exit 1; fi
 	@echo "Pulling $(TAG)"
-	docker import ${ROOTFS_URL} openwrt-${T
+	docker import ${ROOTFS_URL} openwrt-${TAG}
+
