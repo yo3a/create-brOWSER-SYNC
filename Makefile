@@ -51,4 +51,4 @@ pull-root-forced:
 	docker import ${ROOTFS_URL} openwrt-${TAG}
 
 build: pull-root
-	@echo
+	@echo "B
