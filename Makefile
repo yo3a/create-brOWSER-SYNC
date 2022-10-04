@@ -52,4 +52,4 @@ pull-root-forced:
 
 build: pull-root
 	@echo "Building ${TAG}"
-	@echo FROM openwrt-${T
+	@echo FROM openwrt-${TAG} 
