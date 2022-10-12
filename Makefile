@@ -53,3 +53,4 @@ pull-root-forced:
 build: pull-root
 	@echo "Building ${TAG}"
 	@echo FROM openwrt-${TAG} > Dockerfile.tmp
+	@cat
