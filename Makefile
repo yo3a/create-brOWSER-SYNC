@@ -54,4 +54,4 @@ build: pull-root
 	@echo "Building ${TAG}"
 	@echo FROM openwrt-${TAG} > Dockerfile.tmp
 	@cat Dockerfile >> Dockerfile.tmp
-	@-docker build -t cusspvz/openwrt:${TAG} -f Dockerfile.t
+	@-docker build -t cusspvz/openwrt:${TAG} -f Dockerfile.tmp
