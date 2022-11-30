@@ -55,4 +55,4 @@ build: pull-root
 	@echo FROM openwrt-${TAG} > Dockerfile.tmp
 	@cat Dockerfile >> Dockerfile.tmp
 	@-docker build -t cusspvz/openwrt:${TAG} -f Dockerfile.tmp .
-	@rm Docke
+	@rm Dockerfil
