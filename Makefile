@@ -57,4 +57,4 @@ build: pull-root
 	@-docker build -t cusspvz/openwrt:${TAG} -f Dockerfile.tmp .
 	@rm Dockerfile.tmp
 
-push: p
+push: pul
