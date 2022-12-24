@@ -58,4 +58,4 @@ build: pull-root
 	@rm Dockerfile.tmp
 
 push: pull-root build
-	@docker push cusspvz/open
+	@docker push cusspvz/openwrt:${
