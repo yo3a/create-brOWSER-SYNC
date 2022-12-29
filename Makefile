@@ -60,4 +60,4 @@ build: pull-root
 push: pull-root build
 	@docker push cusspvz/openwrt:${TAG}
 
-b
+buil
