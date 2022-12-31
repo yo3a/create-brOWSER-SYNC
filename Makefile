@@ -61,4 +61,4 @@ push: pull-root build
 	@docker push cusspvz/openwrt:${TAG}
 
 build-all:
-	for ARCH i
+	for ARCH in $
