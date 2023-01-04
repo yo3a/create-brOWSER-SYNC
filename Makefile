@@ -62,4 +62,4 @@ push: pull-root build
 
 build-all:
 	for ARCH in ${ALL_ARCHS}; do \
-		for VERSIO
+		for VERSION i
