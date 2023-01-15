@@ -63,4 +63,4 @@ push: pull-root build
 build-all:
 	for ARCH in ${ALL_ARCHS}; do \
 		for VERSION in ${ALL_VERSIONS}; do \
-			make b
+			make bui
