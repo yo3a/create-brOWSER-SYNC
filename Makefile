@@ -65,4 +65,4 @@ build-all:
 		for VERSION in ${ALL_VERSIONS}; do \
 			make build; \
 		done; \
-		make V
+		make VER
