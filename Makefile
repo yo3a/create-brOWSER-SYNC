@@ -69,4 +69,4 @@ build-all:
 	done;
 
 push-all:
-	
+	fo
