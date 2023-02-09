@@ -66,4 +66,4 @@ build-all:
 			make build; \
 		done; \
 		make VERSION="latest" build; \
-	d
+	done
