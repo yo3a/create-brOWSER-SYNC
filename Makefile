@@ -68,4 +68,4 @@ build-all:
 		make VERSION="latest" build; \
 	done;
 
-push-
+push-a
