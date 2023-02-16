@@ -69,4 +69,5 @@ build-all:
 	done;
 
 push-all:
-	for ARCH in ${ALL_ARCHS}; do
+	for ARCH in ${ALL_ARCHS}; do \
+		
