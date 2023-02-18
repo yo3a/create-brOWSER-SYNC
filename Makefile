@@ -70,4 +70,4 @@ build-all:
 
 push-all:
 	for ARCH in ${ALL_ARCHS}; do \
-		for VERSION in ${ALL_VERSIONS}; d
+		for VERSION in ${ALL_VERSIONS}; do \
