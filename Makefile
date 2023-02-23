@@ -73,4 +73,4 @@ push-all:
 		for VERSION in ${ALL_VERSIONS}; do \
 			make push; \
 		done; \
-		make VERS
+		make VERSION="la
