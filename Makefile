@@ -73,4 +73,5 @@ push-all:
 		for VERSION in ${ALL_VERSIONS}; do \
 			make push; \
 		done; \
-		make VERSION="latest" push;
+		make VERSION="latest" push; \
+	d
