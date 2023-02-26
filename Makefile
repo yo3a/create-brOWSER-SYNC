@@ -74,4 +74,4 @@ push-all:
 			make push; \
 		done; \
 		make VERSION="latest" push; \
-	don
+	done;
