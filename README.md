@@ -12,3 +12,6 @@ josemoreira@MacBook-Pro-de-JM ~/G/c/openwrt.docker> docker run --rm -ti cusspvz/
   Use 'passwd' to set your login password
   this will disable telnet and enable SSH
  ------------------------------------------
+
+
+BusyBox v1.23.2 (2015-07-25 07:32:21 CEST) built-in shell (ash)
