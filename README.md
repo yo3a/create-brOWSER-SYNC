@@ -23,3 +23,6 @@ BusyBox v1.23.2 (2015-07-25 07:32:21 CEST) built-in shell (ash)
           |__| W I R E L E S S   F R E E D O M
  -----------------------------------------------------
  CHAOS CALMER (15.05, r46767)
+ -----------------------------------------------------
+  * 1 1/2 oz Gin            Shake with a glassful
+  * 1/4 oz Triple Sec       of broken ice and pour
