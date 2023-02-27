@@ -15,3 +15,7 @@ josemoreira@MacBook-Pro-de-JM ~/G/c/openwrt.docker> docker run --rm -ti cusspvz/
 
 
 BusyBox v1.23.2 (2015-07-25 07:32:21 CEST) built-in shell (ash)
+
+  _______                     ________        __
+ |       |.-----.-----.-----.|  |  |  |.----.|  |_
+ |   -   ||  _  |  -__|     ||  |  |  ||   _||   _|
