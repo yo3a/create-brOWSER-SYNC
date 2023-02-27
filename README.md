@@ -10,3 +10,5 @@
 josemoreira@MacBook-Pro-de-JM ~/G/c/openwrt.docker> docker run --rm -ti cusspvz/openwrt:15.05-x86
  === IMPORTANT ============================
   Use 'passwd' to set your login password
+  this will disable telnet and enable SSH
+ ------------------------------------------
