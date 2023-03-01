@@ -41,3 +41,8 @@ RUN opkg install nano git ...
 ```
 
 ## Versions
+
+### x86
+* **Chaos Calmer** 15.05 - `cusspvz/openwrt:15.05-x86`
+* **Barrier Breaker** 14.07 - `cusspvz/openwrt:14.07-x86`
+* **Attitude Adjustment** 12.09 - `cusspvz/openwrt:12.09-x86`
