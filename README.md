@@ -29,3 +29,5 @@ BusyBox v1.23.2 (2015-07-25 07:32:21 CEST) built-in shell (ash)
   * 3/4 oz Lime Juice       unstrained into a goblet.
   * 1 1/2 oz Orange Juice
   * 1 tsp. Grenadine Syrup
+ -----------------------------------------------------
+root@23c9170005d3:/# ls
