@@ -31,3 +31,4 @@ BusyBox v1.23.2 (2015-07-25 07:32:21 CEST) built-in shell (ash)
   * 1 tsp. Grenadine Syrup
  -----------------------------------------------------
 root@23c9170005d3:/# ls
+bin      dev      etc      lib      mnt      overlay  proc     rom      root     sbin     sys      tmp      usr      var      www
