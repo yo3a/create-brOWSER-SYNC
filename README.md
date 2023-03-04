@@ -53,3 +53,8 @@ RUN opkg install nano git ...
 * **Chaos Calmer** 15.05 - `cusspvz/openwrt:15.05-x64`
 
 ## Developing
+
+### Building image
+```bash
+ARCH="x86" VERSION="15.05" make build
+```
